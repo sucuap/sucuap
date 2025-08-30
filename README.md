@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Pablo Accattoli
 
-I'm a **Java Web Developer** with a diverse professional background, blending software development with maritime operations and environmental fieldwork. I specialize in designing and deploying Java-based applications and have worked in both corporate and remote field environments.
+I'm a **Java + Python Web Developer** with a diverse professional background, blending software development with maritime operations and environmental fieldwork. I specialize in designing and deploying Java-based applications and have worked in both corporate and remote field environments.
 
 ---
 
